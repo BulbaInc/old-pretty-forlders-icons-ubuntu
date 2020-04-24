@@ -14,7 +14,7 @@ git clone https://github.com/BulbaInc/old-pretty-forlders-icons-ubuntu.git
 sudo cp -r Suru/ /usr/share/icons/
 ```
 
-3. If you don't have gnome-tweak-tool installed than:
+3. If you don't have gnome-tweak-tool installed
 
 ```bash
 sudo apt-get install gnome-tweak-tool
