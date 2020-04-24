@@ -4,7 +4,7 @@ This is a GNOME icon theme that repeats Ubuntu 20.04 in its entirety, but its ma
 
 ## Installation
 
-1. Download archive from Github [release](https://github.com/ BulbaInc/old-pretty-forlders-icons-ubuntu/releases) or clone repository
+1. Download archive from Github [release](https://github.com/BulbaInc/old-pretty-forlders-icons-ubuntu/releases) or clone repository
 ```bash
 git clone https://github.com/BulbaInc/old-pretty-forlders-icons-ubuntu.git
 ```
