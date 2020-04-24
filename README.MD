@@ -11,7 +11,7 @@ git clone https://github.com/BulbaInc/old-pretty-forlders-icons-ubuntu.git
 2. Copy folder in /usr/share/icons
 
 ```bash
-sudo cp -r ~/Downloads/Suru/ /usr/share/icons/
+sudo cp -r Suru/ /usr/share/icons/
 ```
 
 3. If you don't have gnome-tweak-tool installed than:
