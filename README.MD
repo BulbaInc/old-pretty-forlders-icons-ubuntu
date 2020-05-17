@@ -1,6 +1,6 @@
 # Old folders icons for Ubuntu 20.04
 
-This is a GNOME icon theme that repeats Ubuntu 20.04 in its entirety, but its main feature is that it changes folder icons to old orange ones. It's all!
+This is a GNOME icon theme that repeats Ubuntu 20.04 in its entirety, but its main feature is that it changes folder icons to old orange ones. That's all!
 
 ## Installation
 
